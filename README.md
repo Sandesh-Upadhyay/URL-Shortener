@@ -1,6 +1,6 @@
 # Modern URL Shortener
 
-A sleek and efficient URL shortening application built with React, TypeScript, and TailwindCSS. Try it live at [https://flourishing-mandazi-87c069.netlify.app](https://flourishing-mandazi-87c069.netlify.app)
+A sleek and efficient URL-shortening application built with React, TypeScript, and TailwindCSS. Try it live at [(https://url-shortener-rosy.vercel.app/)](https://url-shortener-rosy.vercel.app/))
 
 ## Features
 
